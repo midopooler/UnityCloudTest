@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "290289355565",
-    "firebase_url": "https://freshtest-1274d.firebaseio.com",
-    "project_id": "freshtest-1274d",
-    "storage_bucket": "freshtest-1274d.appspot.com"
+    "project_number": "776440906401",
+    "firebase_url": "https://justanothercrashapp.firebaseio.com",
+    "project_id": "justanothercrashapp",
+    "storage_bucket": "justanothercrashapp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:290289355565:android:5fa7b8a43890fe11a2e1a4",
+        "mobilesdk_app_id": "1:776440906401:android:dab5f24ef5638c984aa6e0",
         "android_client_info": {
           "package_name": "com.test.freshtest"
         }
       },
       "oauth_client": [
         {
-          "client_id": "290289355565-kcti0als2v4aj24qr2t74i61hu4q8mse.apps.googleusercontent.com",
+          "client_id": "776440906401-eie387kqbt9d369ekojm8scebv2oeo7t.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBcCBwixYNzC5jRE3VdZTEQsDC4SXY0u_Q"
+          "current_key": "AIzaSyBDcr4uD3AdPJ4ArTmgIMogAmI2Ff0QU-o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "290289355565-kcti0als2v4aj24qr2t74i61hu4q8mse.apps.googleusercontent.com",
+              "client_id": "776440906401-eie387kqbt9d369ekojm8scebv2oeo7t.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
