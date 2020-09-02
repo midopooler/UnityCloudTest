@@ -35,7 +35,8 @@ public class CrashlyticsTester : MonoBehaviour
             updatesBeforeException = 60;
 
             // Throw an exception to test your Crashlytics implementation
-            throw new System.Exception("test exception please ignore");
+           // throw new System.Exception("test exception please ignore");
+           Utils.ForceCrash(ForcedCrashCategory.Abort);
         }
     }
 }
